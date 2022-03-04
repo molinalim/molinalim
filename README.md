@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @molinalim
 - 👀 I’m interested in Computer Vision 👀👀👀👀👀👀👀👀👀👀👀
 - 🌱 I’m currently learning React JS, competitive programming with C++ and Computer Vision with python.
-- 💞️ I’m looking to collaborate on Image Recognition application or any web project
+- 💞️ I’m looking to collaborate on any web project
 - 📫 How to reach me: limmolina99@gmail.com
 
 <!---
