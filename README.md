@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @molinalim
-- 👀 I’m interested in Computer Vision 👀👀👀👀👀👀👀👀👀👀👀
-- 🌱 I’m currently learning React JS, competitive programming with C++, Computer Vision with python and Fintech.
-- 💞️ I’m looking to collaborate on any web project (webgl or react)
+- 👋 Hi, I’m @molinalim 👩‍💻 Currently, a ServiceNow DevOps Engineer.
+- 🤖 I’m interested in AI and Cloud Computing
+- 🌱 I have a diverse skill set in coding languages such as SQL, HTML, CSS, Python, JavaScript, C++ and Java, along with frameworks like React and Next.js... Currently, learning and building more side projects. 
+- 💞️ I’m looking to collaborate on any web project. 
 - 📫 How to reach me: limmolina99@gmail.com
 
 <!---
